@@ -1,0 +1,34 @@
+html {
+  border: 1px solid red;
+  background: url("bg.accacd71.jpg");
+}
+
+img {
+  border: 1px solid green;
+}
+
+::-webkit-input-placeholder {
+  color: gray;
+}
+
+::-moz-placeholder {
+  color: gray;
+}
+
+:-ms-input-placeholder {
+  color: gray;
+}
+
+::-ms-input-placeholder {
+  color: gray;
+}
+
+::placeholder {
+  color: gray;
+}
+
+._test_2b57d {
+  border: 1px solid red;
+}
+
+/*# sourceMappingURL=app.css.map */
