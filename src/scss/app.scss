@@ -1,0 +1,15 @@
+html {
+  border: 1px solid red;
+  background: url("../images/bg.jpg");
+
+}
+
+img {
+  border: 1px solid green;
+}
+
+::placeholder {
+  color: gray;
+}
+
+@import "test";
